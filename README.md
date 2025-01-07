@@ -1,8 +1,6 @@
 # Alice 🤖
 
-<div align="center">
-  <img src="alice.jpg" alt="Eliza Banner" width="100%" />
-</div>
+
 
 <div align="center">
 
